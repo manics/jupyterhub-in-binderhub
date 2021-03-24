@@ -1,0 +1,6 @@
+name: jupyterhub-in-binderhub
+channels:
+  - conda-forge
+dependencies:
+  - bash_kernel
+  - jupyter-server-proxy
